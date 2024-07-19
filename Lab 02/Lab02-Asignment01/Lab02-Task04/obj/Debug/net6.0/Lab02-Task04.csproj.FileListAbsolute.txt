@@ -1,0 +1,15 @@
+C:\Users\esraa salah\Desktop\Lab02-Task04\Lab02-Task04\obj\Debug\net6.0\Lab02-Task04.csproj.AssemblyReference.cache
+C:\Users\esraa salah\Desktop\Lab02-Task04\Lab02-Task04\obj\Debug\net6.0\Lab02-Task04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esraa salah\Desktop\Lab02-Task04\Lab02-Task04\obj\Debug\net6.0\Lab02-Task04.AssemblyInfoInputs.cache
+C:\Users\esraa salah\Desktop\Lab02-Task04\Lab02-Task04\obj\Debug\net6.0\Lab02-Task04.AssemblyInfo.cs
+C:\Users\esraa salah\Desktop\Lab02-Task04\Lab02-Task04\obj\Debug\net6.0\Lab02-Task04.csproj.CoreCompileInputs.cache
+C:\Users\esraa salah\Desktop\Lab02-Task04\Lab02-Task04\bin\Debug\net6.0\Lab02-Task04.exe
+C:\Users\esraa salah\Desktop\Lab02-Task04\Lab02-Task04\bin\Debug\net6.0\Lab02-Task04.deps.json
+C:\Users\esraa salah\Desktop\Lab02-Task04\Lab02-Task04\bin\Debug\net6.0\Lab02-Task04.runtimeconfig.json
+C:\Users\esraa salah\Desktop\Lab02-Task04\Lab02-Task04\bin\Debug\net6.0\Lab02-Task04.dll
+C:\Users\esraa salah\Desktop\Lab02-Task04\Lab02-Task04\bin\Debug\net6.0\Lab02-Task04.pdb
+C:\Users\esraa salah\Desktop\Lab02-Task04\Lab02-Task04\obj\Debug\net6.0\Lab02-Task04.dll
+C:\Users\esraa salah\Desktop\Lab02-Task04\Lab02-Task04\obj\Debug\net6.0\refint\Lab02-Task04.dll
+C:\Users\esraa salah\Desktop\Lab02-Task04\Lab02-Task04\obj\Debug\net6.0\Lab02-Task04.pdb
+C:\Users\esraa salah\Desktop\Lab02-Task04\Lab02-Task04\obj\Debug\net6.0\Lab02-Task04.genruntimeconfig.cache
+C:\Users\esraa salah\Desktop\Lab02-Task04\Lab02-Task04\obj\Debug\net6.0\ref\Lab02-Task04.dll

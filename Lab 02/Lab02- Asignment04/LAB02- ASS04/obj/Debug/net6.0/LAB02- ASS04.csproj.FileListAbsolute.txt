@@ -1,0 +1,15 @@
+C:\Users\esraa salah\Desktop\LAB02- ASS04\LAB02- ASS04\bin\Debug\net6.0\LAB02- ASS04.exe
+C:\Users\esraa salah\Desktop\LAB02- ASS04\LAB02- ASS04\bin\Debug\net6.0\LAB02- ASS04.deps.json
+C:\Users\esraa salah\Desktop\LAB02- ASS04\LAB02- ASS04\bin\Debug\net6.0\LAB02- ASS04.runtimeconfig.json
+C:\Users\esraa salah\Desktop\LAB02- ASS04\LAB02- ASS04\bin\Debug\net6.0\LAB02- ASS04.dll
+C:\Users\esraa salah\Desktop\LAB02- ASS04\LAB02- ASS04\bin\Debug\net6.0\LAB02- ASS04.pdb
+C:\Users\esraa salah\Desktop\LAB02- ASS04\LAB02- ASS04\obj\Debug\net6.0\LAB02- ASS04.csproj.AssemblyReference.cache
+C:\Users\esraa salah\Desktop\LAB02- ASS04\LAB02- ASS04\obj\Debug\net6.0\LAB02- ASS04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esraa salah\Desktop\LAB02- ASS04\LAB02- ASS04\obj\Debug\net6.0\LAB02- ASS04.AssemblyInfoInputs.cache
+C:\Users\esraa salah\Desktop\LAB02- ASS04\LAB02- ASS04\obj\Debug\net6.0\LAB02- ASS04.AssemblyInfo.cs
+C:\Users\esraa salah\Desktop\LAB02- ASS04\LAB02- ASS04\obj\Debug\net6.0\LAB02- ASS04.csproj.CoreCompileInputs.cache
+C:\Users\esraa salah\Desktop\LAB02- ASS04\LAB02- ASS04\obj\Debug\net6.0\LAB02- ASS04.dll
+C:\Users\esraa salah\Desktop\LAB02- ASS04\LAB02- ASS04\obj\Debug\net6.0\refint\LAB02- ASS04.dll
+C:\Users\esraa salah\Desktop\LAB02- ASS04\LAB02- ASS04\obj\Debug\net6.0\LAB02- ASS04.pdb
+C:\Users\esraa salah\Desktop\LAB02- ASS04\LAB02- ASS04\obj\Debug\net6.0\LAB02- ASS04.genruntimeconfig.cache
+C:\Users\esraa salah\Desktop\LAB02- ASS04\LAB02- ASS04\obj\Debug\net6.0\ref\LAB02- ASS04.dll
