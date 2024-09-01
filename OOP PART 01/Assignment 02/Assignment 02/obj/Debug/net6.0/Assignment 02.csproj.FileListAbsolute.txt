@@ -1,0 +1,15 @@
+F:\iti labs\OOP\Assignment 02\Assignment 02\obj\Debug\net6.0\Assignment 02.csproj.AssemblyReference.cache
+F:\iti labs\OOP\Assignment 02\Assignment 02\obj\Debug\net6.0\Assignment 02.GeneratedMSBuildEditorConfig.editorconfig
+F:\iti labs\OOP\Assignment 02\Assignment 02\obj\Debug\net6.0\Assignment 02.AssemblyInfoInputs.cache
+F:\iti labs\OOP\Assignment 02\Assignment 02\obj\Debug\net6.0\Assignment 02.AssemblyInfo.cs
+F:\iti labs\OOP\Assignment 02\Assignment 02\obj\Debug\net6.0\Assignment 02.csproj.CoreCompileInputs.cache
+F:\iti labs\OOP\Assignment 02\Assignment 02\bin\Debug\net6.0\Assignment 02.exe
+F:\iti labs\OOP\Assignment 02\Assignment 02\bin\Debug\net6.0\Assignment 02.deps.json
+F:\iti labs\OOP\Assignment 02\Assignment 02\bin\Debug\net6.0\Assignment 02.runtimeconfig.json
+F:\iti labs\OOP\Assignment 02\Assignment 02\bin\Debug\net6.0\Assignment 02.dll
+F:\iti labs\OOP\Assignment 02\Assignment 02\bin\Debug\net6.0\Assignment 02.pdb
+F:\iti labs\OOP\Assignment 02\Assignment 02\obj\Debug\net6.0\Assignment 02.dll
+F:\iti labs\OOP\Assignment 02\Assignment 02\obj\Debug\net6.0\refint\Assignment 02.dll
+F:\iti labs\OOP\Assignment 02\Assignment 02\obj\Debug\net6.0\Assignment 02.pdb
+F:\iti labs\OOP\Assignment 02\Assignment 02\obj\Debug\net6.0\Assignment 02.genruntimeconfig.cache
+F:\iti labs\OOP\Assignment 02\Assignment 02\obj\Debug\net6.0\ref\Assignment 02.dll
