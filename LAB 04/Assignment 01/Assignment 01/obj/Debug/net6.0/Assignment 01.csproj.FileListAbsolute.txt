@@ -1,0 +1,15 @@
+F:\iti labs\LAB 04\Assignment 01\Assignment 01\bin\Debug\net6.0\Assignment 01.exe
+F:\iti labs\LAB 04\Assignment 01\Assignment 01\bin\Debug\net6.0\Assignment 01.deps.json
+F:\iti labs\LAB 04\Assignment 01\Assignment 01\bin\Debug\net6.0\Assignment 01.runtimeconfig.json
+F:\iti labs\LAB 04\Assignment 01\Assignment 01\bin\Debug\net6.0\Assignment 01.dll
+F:\iti labs\LAB 04\Assignment 01\Assignment 01\bin\Debug\net6.0\Assignment 01.pdb
+F:\iti labs\LAB 04\Assignment 01\Assignment 01\obj\Debug\net6.0\Assignment 01.csproj.AssemblyReference.cache
+F:\iti labs\LAB 04\Assignment 01\Assignment 01\obj\Debug\net6.0\Assignment 01.GeneratedMSBuildEditorConfig.editorconfig
+F:\iti labs\LAB 04\Assignment 01\Assignment 01\obj\Debug\net6.0\Assignment 01.AssemblyInfoInputs.cache
+F:\iti labs\LAB 04\Assignment 01\Assignment 01\obj\Debug\net6.0\Assignment 01.AssemblyInfo.cs
+F:\iti labs\LAB 04\Assignment 01\Assignment 01\obj\Debug\net6.0\Assignment 01.csproj.CoreCompileInputs.cache
+F:\iti labs\LAB 04\Assignment 01\Assignment 01\obj\Debug\net6.0\Assignment 01.dll
+F:\iti labs\LAB 04\Assignment 01\Assignment 01\obj\Debug\net6.0\refint\Assignment 01.dll
+F:\iti labs\LAB 04\Assignment 01\Assignment 01\obj\Debug\net6.0\Assignment 01.pdb
+F:\iti labs\LAB 04\Assignment 01\Assignment 01\obj\Debug\net6.0\Assignment 01.genruntimeconfig.cache
+F:\iti labs\LAB 04\Assignment 01\Assignment 01\obj\Debug\net6.0\ref\Assignment 01.dll

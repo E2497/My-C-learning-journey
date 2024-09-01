@@ -1,0 +1,15 @@
+F:\iti labs\lab05\Assign01\Assign01\bin\Debug\net6.0\Assign01.exe
+F:\iti labs\lab05\Assign01\Assign01\bin\Debug\net6.0\Assign01.deps.json
+F:\iti labs\lab05\Assign01\Assign01\bin\Debug\net6.0\Assign01.runtimeconfig.json
+F:\iti labs\lab05\Assign01\Assign01\bin\Debug\net6.0\Assign01.dll
+F:\iti labs\lab05\Assign01\Assign01\bin\Debug\net6.0\Assign01.pdb
+F:\iti labs\lab05\Assign01\Assign01\obj\Debug\net6.0\Assign01.csproj.AssemblyReference.cache
+F:\iti labs\lab05\Assign01\Assign01\obj\Debug\net6.0\Assign01.GeneratedMSBuildEditorConfig.editorconfig
+F:\iti labs\lab05\Assign01\Assign01\obj\Debug\net6.0\Assign01.AssemblyInfoInputs.cache
+F:\iti labs\lab05\Assign01\Assign01\obj\Debug\net6.0\Assign01.AssemblyInfo.cs
+F:\iti labs\lab05\Assign01\Assign01\obj\Debug\net6.0\Assign01.csproj.CoreCompileInputs.cache
+F:\iti labs\lab05\Assign01\Assign01\obj\Debug\net6.0\Assign01.dll
+F:\iti labs\lab05\Assign01\Assign01\obj\Debug\net6.0\refint\Assign01.dll
+F:\iti labs\lab05\Assign01\Assign01\obj\Debug\net6.0\Assign01.pdb
+F:\iti labs\lab05\Assign01\Assign01\obj\Debug\net6.0\Assign01.genruntimeconfig.cache
+F:\iti labs\lab05\Assign01\Assign01\obj\Debug\net6.0\ref\Assign01.dll
