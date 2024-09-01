@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Lab03_Task04</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Ass01Dll">
+      <HintPath>F:\00000 - ITI\Day10_C#\Ass03\Ass01Dll.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
